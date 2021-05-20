@@ -1,0 +1,18 @@
+/* AUTHOR */
+
+	Name 		: OUTALEB Abderahmane
+	Role 		: Data analyst and Finance enthousiast 
+	EMail		: abdeloutaleb2011[at]gmail.com
+	From 		: Fez, Morocco
+	
+
+/* TECHNOLOGY */
+
+	HTML5, CSS3, Bootstrap, Boilerplate, jQuery, GruntJS, python, finance, machine learning, data visualization
+	IDE: Sublime Text, FileZilla, Photoshop,SQL Server, Pycharm
+
+
+/* THANKS */
+
+	Credits for the logo goes to : Andy Beckmann
+		http://dribbble.com/shots/1164252-Letter-A-Logo
